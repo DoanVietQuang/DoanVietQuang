@@ -1,5 +1,6 @@
 ![MasterHead](https://images7.alphacoders.com/509/509782.jpg)
-<img align="right" src="![Static Badge](https://img.shields.io/badge/quangqr)
+<img align="right" src="https://img.shields.io/badge/quangqr
+
 " />
 
 <h1 align="center">
